@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -93,6 +93,8 @@ avanca.forEach(button => {
         document.getElementById(proximoPasso).classList.add('ativo');
     })
 })
+
+
 ‎style.css
 +33
 Lines changed: 33 additions & 0 deletions
@@ -126,11 +128,6 @@ main {
 img {
     max-width: 90%;
 }
-
-
-
-
-
 
 
 
